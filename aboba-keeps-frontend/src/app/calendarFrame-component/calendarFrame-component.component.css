@@ -1,0 +1,25 @@
+.choosenOne
+    {
+        background-color: steelblue;
+    }
+    .choosenOne:hover
+    {
+        cursor: pointer;
+    }
+    .divChoose:hover
+    {
+        cursor: pointer;
+        background-color: steelblue;
+    }
+    .divChoose
+    {
+        width: 100%;
+    }
+    .divContainer
+    {
+        padding: 10px; 
+        margin: 0px; 
+        background-color: lightblue; 
+        align-items: top; 
+        height: 740px;
+    }
